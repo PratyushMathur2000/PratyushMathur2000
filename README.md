@@ -4,7 +4,7 @@
   <h3>Founder & Lead Developer at MindSnap Studios</h3>
   <p><strong>Building High-Impact Mobile Applications, Grounded AI Systems & Interactive Digital Products</strong></p>
 
-  <a href="https://mindsnapstudios.com"><img src="https://img.shields.io/badge/Website-mindsnapstudios.com-4338ca?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Studio Website" /></a>
+  <a href="https://mindsnap-3c915.web.app/"><img src="https://img.shields.io/badge/Website-mindsnap--3c915.web.app-4338ca?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Studio Website" /></a>
   <a href="mailto:mindsnapstudios.contact@gmail.com"><img src="https://img.shields.io/badge/Email-mindsnapstudios.contact@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Business Email" /></a>
   <a href="https://github.com/PratyushMathur2000"><img src="https://img.shields.io/badge/GitHub-PratyushMathur2000-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
   <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
@@ -34,7 +34,14 @@ Direct links to open-source systems, algorithmic frameworks, and production tool
 ---
 
 ### ⭐ [ClaimPulse Simulation](https://github.com/PratyushMathur2000/claimpulse-simulation)
-> **High-performance verified-evidence motor insurance claims orchestration simulator.**
+> **🏆 National Finalist (Top 6 Pan-India) · Bajaj Finserv ATOM Case Competition**  
+> *High-performance verified-evidence motor insurance claims orchestration simulator.*
+
+<a href="https://github.com/PratyushMathur2000/claimpulse-simulation"><img src="https://img.shields.io/badge/Bajaj_Finserv_ATOM-National_Finalist_(Top_6)-FF7900?style=flat-square&logo=target&logoColor=white" alt="Bajaj Finserv ATOM Top 6" /></a>
+<img src="https://img.shields.io/badge/Architecture-Deterministic_5--Layer_Tree-blue?style=flat-square" alt="5-Layer Architecture" />
+<img src="https://img.shields.io/badge/Rendering-Handcrafted_SVG-green?style=flat-square" alt="Handcrafted SVG" />
+
+* **Competition & Achievement:** Built for the prestigious **Bajaj Finserv ATOM** case competition. Selected as one of the **Top 6 National Finalists Pan-India** competing against premier institutions nationwide.
 * **Tech Stack:** Vanilla JavaScript (ES6+), HTML5, CSS3, SVG Rendering Engine, Zero External Dependencies
 * **Architecture Highlights:**
   * **5-Layer Deterministic Decision Tree:** Models Hard Gate, Fraud Ring Detection ($\ge 0.35$ SIU routing), Parts Benchmark, Policy RAG, and statutory IRDAI guidelines (> ₹50k surveyor caps).
@@ -60,7 +67,7 @@ Consumer mobile apps and production web platforms published through **MindSnap S
 
 ```
                                   [ MindSnap Studios ]
-                               (https://mindsnapstudios.com)
+                            (https://mindsnap-3c915.web.app)
                                              │
       ┌──────────────────────────────┬───────┴──────────────────────┬──────────────────────────────┐
       ▼                              ▼                              ▼                              ▼
@@ -69,32 +76,32 @@ AI Contract Analyzer        Cognitive Reflex Game          Modular Jigsaw Game  
 (Android / Cloudflare)      (Capacitor / Android)         (Capacitor / Android)         (Android / Jetpack)
 ```
 
-### 🛡️ [Before You Sign — AI Legal Document & Contract Risk Analyzer](https://mindsnapstudios.com/before-you-sign/)
+### 🛡️ [Before You Sign — AI Legal Document & Contract Risk Analyzer](https://mindsnap-3c915.web.app/before-you-sign/)
 *Understand any contract before you sign it. Plain-English summaries and red-flag alerts.*
 * **Tech Stack:** Kotlin, Jetpack Compose, Material Design 3, Android 16 (API 36), Cloudflare Worker, Google Gemini 3.x Flash Cascade
 * **Capabilities:** Multimodal document ingestion (text, camera OCR, multi-page PDF). Detects predatory clauses (IP grabs, hidden auto-renewals, non-competes, one-sided indemnity), scores overall risk, and drafts polite pushback negotiation emails.
 * **Architecture:** Zero-trust Cloudflare Worker reverse proxy isolates API credentials and implements automatic fallback across Gemini 3.7 / 3.6 / 3.5 Flash models.
-* **Links:** **[Detailed Showcase](./Before_You_Sign_Showcase.md)** · **[Product Page](https://mindsnapstudios.com/before-you-sign/)** · **[Privacy & Legal](https://mindsnapstudios.com/before-you-sign/privacy-policy.html)**
+* **Links:** **[Detailed Showcase](./Before_You_Sign_Showcase.md)** · **[Product Page](https://mindsnap-3c915.web.app/before-you-sign/)** · **[Privacy & Legal](https://mindsnap-3c915.web.app/before-you-sign/privacy-policy.html)**
 
-### ⚡ [MindSnap — Reflex & Brain-Training Mobile Game](https://mindsnapstudios.com/play/)
+### ⚡ [MindSnap — Reflex & Brain-Training Mobile Game](https://mindsnap-3c915.web.app/play/)
 *Blink and you lose. A high-octane hyper-casual mobile game testing reflexes under pressure.*
 * **Tech Stack:** Vanilla JavaScript, HTML5 Canvas, Capacitor Native Bridge, Firebase Analytics & Hosting, Android 15 Ready
 * **Game Modes:** Color Chaos (Stroop Effect), Reverse Reflex (Pattern Recognition), Memory Flash (Spatial Recall), and Triple Threat.
 * **Highlights:** Bespoke 60FPS particle engine, CSS variable theme swaps, and production-grade resilient AdMob mediation integration.
-* **Links:** **[Detailed Showcase](./MindSnap_Showcase.md)** · **[Play Web Demo](https://mindsnapstudios.com/play/)** · **[Google Play Store](https://play.google.com/store/apps/details?id=com.mindsnap.game)**
+* **Links:** **[Detailed Showcase](./MindSnap_Showcase.md)** · **[Play Web Demo](https://mindsnap-3c915.web.app/play/)** · **[Google Play Store](https://play.google.com/store/apps/details?id=com.mindsnap.game)**
 
-### 🧩 [PuzzleForge — Modular Jigsaw Puzzle Experience](https://mindsnapstudios.com/puzzleforge/)
+### 🧩 [PuzzleForge — Modular Jigsaw Puzzle Experience](https://mindsnap-3c915.web.app/puzzleforge/)
 *Tactile, polished mobile jigsaw puzzles with fluid piece mechanics.*
 * **Tech Stack:** Vanilla JavaScript, HTML5 Canvas slicing engine, Capacitor, CSS Grid/Flexbox
 * **Game Modes:** Classic, Zen, Chaos, and Blur modes with curated, high-resolution puzzle galleries.
 * **Highlights:** 10px scroll-aware threshold distinguishing page navigation from piece dragging, memory initialization guards, and isolated game-state management.
-* **Links:** **[Detailed Showcase](./PuzzleForge_Showcase.md)** · **[Play Web Demo](https://mindsnapstudios.com/puzzleforge/)** · **[Google Play Store](https://play.google.com/store/apps/details?id=com.puzzleforge.game)**
+* **Links:** **[Detailed Showcase](./PuzzleForge_Showcase.md)** · **[Play Web Demo](https://mindsnap-3c915.web.app/puzzleforge/)** · **[Google Play Store](https://play.google.com/store/apps/details?id=com.puzzleforge.game)**
 
-### 🌐 [MindSnap Studios Official Website](https://mindsnapstudios.com)
+### 🌐 [MindSnap Studios Official Website](https://mindsnap-3c915.web.app/)
 *The studio's public front door, game hub, and legal disclosure portal.*
 * **Tech Stack:** Modern Vanilla HTML5, CSS3, ES6 JavaScript, Firebase Hosting, Web3Forms, Schema.org JSON-LD
 * **Highlights:** Softened light theme with dark About band, mobile hamburger navigation, self-hosted Outfit & JetBrains Mono typography, search-engine indexing, and strict CSP headers.
-* **Links:** **[Visit mindsnapstudios.com](https://mindsnapstudios.com)**
+* **Links:** **[Visit mindsnap-3c915.web.app](https://mindsnap-3c915.web.app/)** *(Custom Domain: [mindsnapstudios.com](https://mindsnapstudios.com))*
 
 ---
 
@@ -125,7 +132,7 @@ AI Contract Analyzer        Cognitive Reflex Game          Modular Jigsaw Game  
 
 I am always interested in discussing new opportunities, high-impact consulting, innovative app development, or game publishing:
 
-* 🌐 **Official Studio Website:** [mindsnapstudios.com](https://mindsnapstudios.com)
+* 🌐 **Official Studio Website:** [https://mindsnap-3c915.web.app/](https://mindsnap-3c915.web.app/) *(also reachable at [mindsnapstudios.com](https://mindsnapstudios.com))*
 * ✉️ **Primary Business Inquiries:** [mindsnapstudios.contact@gmail.com](mailto:mindsnapstudios.contact@gmail.com)
 * 💼 **GitHub:** [@PratyushMathur2000](https://github.com/PratyushMathur2000)
 * 📍 **Base:** Mumbai, Maharashtra, India

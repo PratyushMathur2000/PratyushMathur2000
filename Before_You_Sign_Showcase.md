@@ -74,9 +74,9 @@ Client applications never communicate directly with upstream AI providers. All r
 
 ## 🌐 Live Product & Verification
 
-* **Studio Homepage:** [https://mindsnapstudios.com](https://mindsnapstudios.com)
-* **App Product Hub:** [https://mindsnapstudios.com/before-you-sign/](https://mindsnapstudios.com/before-you-sign/)
-* **Privacy Policy:** [https://mindsnapstudios.com/before-you-sign/privacy-policy.html](https://mindsnapstudios.com/before-you-sign/privacy-policy.html)
+* **Studio Homepage:** [https://mindsnap-3c915.web.app/](https://mindsnap-3c915.web.app/) *(or [mindsnapstudios.com](https://mindsnapstudios.com))*
+* **App Product Hub:** [https://mindsnap-3c915.web.app/before-you-sign/](https://mindsnap-3c915.web.app/before-you-sign/)
+* **Privacy Policy:** [https://mindsnap-3c915.web.app/before-you-sign/privacy-policy.html](https://mindsnap-3c915.web.app/before-you-sign/privacy-policy.html)
 * **Official Contact:** `mindsnapstudios.contact@gmail.com`
 
 ---

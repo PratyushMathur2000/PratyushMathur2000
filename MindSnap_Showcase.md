@@ -4,7 +4,7 @@
   <p><strong>A Premium Hyper-Casual Puzzle Game</strong></p>
 
   <a href="https://play.google.com/store/apps/details?id=com.mindsnap.game"><img src="https://img.shields.io/badge/Google_Play-Available-green?style=for-the-badge&logo=google-play" alt="Google Play" /></a>
-  <a href="https://mindsnapstudios.com/play/"><img src="https://img.shields.io/badge/Web_App-Live_Preview-blue?style=for-the-badge&logo=firebase" alt="Web App Live Preview" /></a>
+  <a href="https://mindsnap-3c915.web.app/play/"><img src="https://img.shields.io/badge/Web_App-Live_Preview-blue?style=for-the-badge&logo=firebase" alt="Web App Live Preview" /></a>
   <img src="https://img.shields.io/badge/Android_15-Ready-success?style=for-the-badge&logo=android" alt="Android 15 Ready" />
 </div>
 
