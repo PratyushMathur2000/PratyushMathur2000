@@ -55,33 +55,9 @@ The project follows a modular, maintainable, and highly scalable software archit
 
 ---
 
-## 🚀 Installation & Setup
+## 🚀 Repository & Source Code
 
-To run this dashboard locally, follow these steps:
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/twinpulse-analytics.git
-cd twinpulse-analytics
-```
-
-### 2. Create a Virtual Environment
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-```
-
-### 3. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Launch the Dashboard
-```bash
-streamlit run app.py
-```
-
-Navigate to `http://localhost:8501` in your browser to interact with the application.
+* **[TwinPulse GitHub Repository](https://github.com/PratyushMathur2000/Twin-Pulse-ML-Based-Digital-Twin-Framework-for-AI-Driven-Asset-Prognosis)**
 
 ---
 

@@ -73,22 +73,9 @@ This project showcases a deep understanding of **front-end architecture, state m
 
 ---
 
-## 🚀 How to Run Locally
+## 🌐 Project Architecture
 
-1. Clone the repository.
-2. Ensure you have Node.js installed.
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the Vite development server:
-   ```bash
-   npm run dev
-   ```
-5. To build for production:
-   ```bash
-   npm run build
-   ```
+*Modern Vanilla JavaScript, custom modular shopping cart state management, responsive CSS glassmorphism, and integrated AI consultation.*
 
 ---
 

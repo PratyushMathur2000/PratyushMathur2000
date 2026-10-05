@@ -102,7 +102,9 @@ The UI layer is meticulously crafted using modern CSS (variables, grid, flexbox)
 
 Experience the premium mechanics and stunning pre-made puzzle gallery firsthand.
 
-**[Download PuzzleForge on the Google Play Store](https://play.google.com/store/apps/details?id=com.puzzleforge.game)**
+* **[Play PuzzleForge Web Demo](https://mindsnapstudios.com/puzzleforge/)**
+* **[Download on Google Play Store](https://play.google.com/store/apps/details?id=com.puzzleforge.game)**
+* **[MindSnap Studios Hub](https://mindsnapstudios.com)**
 
 ---
 *This README serves as a technical showcase of mobile game development, hybrid app architecture, and advanced JavaScript engineering.*
